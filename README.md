@@ -1,4 +1,5 @@
-# fr-Compiler-1.0
+# python-Compiler-1.0
+一个简单的用python写的编译器
 A simple compiler written in python
 
 本编译程序是基于自设计的类c模板语言开发的，样本语言的文法如下所述，为LL(1)文法，其中产生式左边的单词表示非终结符，这将成为之后设计递归子程序的依据。
